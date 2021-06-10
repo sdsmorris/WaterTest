@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(56,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(57,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(61,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(62,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(64,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(65,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(185,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(203,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(271,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(279,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(286,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(158,28): warning C4101: 'ebo': unreferenced local variable
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(158,18): warning C4101: 'vao': unreferenced local variable
+C:\Users\sammo\source\repos\WaterRenderingTest\WaterRenderingTest\src\main.cpp(158,23): warning C4101: 'vbo': unreferenced local variable
+  WaterRenderingTest.vcxproj -> C:\Users\sammo\source\repos\WaterRenderingTest\x64\Debug\WaterRenderingTest.exe
